@@ -1,6 +1,8 @@
 验证码
 ========
 
+依赖包 `pip install image` (PIL is deprecated, and pillow is the successor)
+
 Usage(Flask)
 --
 
